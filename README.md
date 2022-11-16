@@ -4,16 +4,16 @@
 
 
    
-   <img src="../src/images/2.png" width="400" height="120" />
+   <img src="src/images/2.png" width="400" height="120" />
 
 ## components 
  App consist of 2 components 
   --Header.js
   --Meme.js
 
- <img src="../meme/src/images/Screenshot_20221115_215612.png" width="550" height="300" />
+ <img src="src/images/Screenshot_20221115_215612.png" width="550" height="300" />
  <br>
- <img src="../meme/src/images/Screenshot_20221115_215805.png" width="550" height="300" />
+ <img src="src/images/Screenshot_20221115_215805.png" width="550" height="300" />
 
 
 ### this web app makes use of API
