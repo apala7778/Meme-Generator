@@ -15,7 +15,6 @@
  <br>
  <img src="src/images/Screenshot_20221115_215805.png" width="550" height="300" />
 
-
 ### this web app makes use of API
 
 ## Contributing 
